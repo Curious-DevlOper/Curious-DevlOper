@@ -1,4 +1,4 @@
-# Hi, I’m Elham 👋  
+# Hi, I’m Ellie 👋  
 
 Junior Frontend Developer based in Vienna 🇦🇹  
 
