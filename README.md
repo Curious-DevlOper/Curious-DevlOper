@@ -37,13 +37,7 @@ and NFT-based certificates of authenticity.
 
 ---
 
-## 🎓 Background
-- Frontend Developer at **Pensionsversicherungsanstalt**, Vienna
-- Frontend Developer at **Seamtec GmbH**
-- Master’s student in IoT & Intelligent Systems
-- Strong background in mathematics and engineering
 
----
 
 ## 📫 Contact
 - Email: elham.bolandi@gmail.com  
