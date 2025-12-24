@@ -2,14 +2,9 @@
 
 Junior Frontend Developer based in Vienna 🇦🇹  
 
-I have professional experience building web interfaces with **Angular** and **React**.
-I enjoy creating clean, responsive UIs and working with modern frontend technologies.
-Currently, I am completing my **Master’s degree in IoT and Intelligent Systems** at FH Technikum Wien.
-
+I have  experience building web interfaces with **Angular** and **React**. I enjoy creating clean, responsive UIs and working with modern frontend technologies.
 ---
-
 ## 🛠 Tech Stack
-
 **Frontend**
 - HTML, CSS, JavaScript, TypeScript
 - Angular, React
@@ -19,13 +14,6 @@ Currently, I am completing my **Master’s degree in IoT and Intelligent Systems
 - Node.js, Express
 - MongoDB
 
-**Tools & Other**
-- Git, GitHub
-- REST APIs
-- Web3, NFTs, Smart Contracts (ERC-721), IPFS
-
----
-
 ## 🚀 Featured Projects
 
 ### 🎨 Art Marketplace with Crypto & NFTs
@@ -34,11 +22,7 @@ and NFT-based certificates of authenticity.
 
 **Tech:** React, Node.js, Express, MongoDB, Ethereum, IPFS  
 🔗 Repo: https://github.com/Curious-DevlOper/sell-art-with-NFT
-
 ---
-
-
-
 ## 📫 Contact
 - Email: elham.bolandi@gmail.com  
 - GitHub: https://github.com/Curious-DevlOper  
